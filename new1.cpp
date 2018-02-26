@@ -6,6 +6,7 @@ int main()
 	cout << "This is a test for Git" << end;
 	cout << "hello, I am using notepad++!" << endl;
 	cout << "So, now I'm just adding some more changes to this code." << endl;
+	cout << "some more changes..." << endl;
 	
 	return 0;
 }
